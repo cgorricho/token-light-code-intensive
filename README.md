@@ -222,3 +222,11 @@ The three-tier model (code / SLM / frontier) provides the execution framework. T
 The result: platforms that are 80-97% cheaper, faster, more predictable, more debuggable, and more auditable than all-LLM alternatives — without sacrificing capability where intelligence is genuinely needed.
 
 **AI agents are powerful. Use them only where they are needed.**
+
+---
+
+## Author
+
+**Carlos Gorricho**
+cgorricho@carlosgorrichoai.one
++1-470-513-9430
