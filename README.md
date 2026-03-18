@@ -1,3 +1,9 @@
+> **80-97% cost reduction in AI agent operations.** TLCI is a design philosophy that routes every operation to the cheapest execution tier that can handle it — code for deterministic work, SLMs for classification, frontier LLMs only for judgment. The result: predictable costs, reusable code, and architectures that get cheaper as they scale.
+>
+> **Reference implementation:** [Career Coach](https://github.com/cgorricho/career-coach) — 19 agents, 88 scripts, $0.16-0.55/day operational cost.
+
+---
+
 # Token-Light, Code-Intensive (TLCI)
 
 **A design philosophy for AI agent automation platforms.**
